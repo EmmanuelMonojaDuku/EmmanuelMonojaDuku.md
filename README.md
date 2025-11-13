@@ -89,16 +89,17 @@ I specialize in designing resilient systems using **AWS**, **Azure**, and **Pyth
 
 ---
 
-### 📊 GitHub Analytics  
+### 📊 GitHub Analytics   
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMonojaDuku&show_icons=true&theme=tokyonight&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMonojaDuku&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelmonojaduku&show_icons=true&theme=tokyonight&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelmonojaduku&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelMonojaDukuE&theme=tokyo-night&hide_border=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelmonojaduku&theme=tokyo-night&hide_border=true" width="95%">
 </p>
+
 
 ---
 
