@@ -72,8 +72,6 @@ I specialize in designing resilient systems using **AWS**, **Azure**, and **Pyth
 
 ### 🧱 Featured Projects  
 
-### 🧱 Featured Projects  
-
 | 🚀 Project | 💡 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
 | 📈 **Stock Price Predictor** | A machine learning model that predicts stock trends using historical data. | Python, AWS S3, Lambda, Flask, TensorFlow |
@@ -115,16 +113,6 @@ I specialize in designing resilient systems using **AWS**, **Azure**, and **Pyth
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMonojaDuku&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMonojaDuku&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💡 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMonojaDuku&layout=compact&theme=radical" alt="Top Languages" />
