@@ -15,6 +15,12 @@
 
 I'm a **DevOps Engineer** passionate about **cloud infrastructure**, **automation**, and **scalable deployments**.  
 I specialize in designing resilient systems using **AWS**, **Azure**, and **Python** — blending code, automation, and infrastructure to make technology smarter and faster.
+🧠 About Me
+- 🎓 Bachelor of Information Technology student at **Uganda Christian University**
+- ⚙️ Interested in **Web & Mobile Development**, **Networking**, and **System Design**
+- 🚀 Currently working on **Stockprice predictor** **Smart Task Tracker**
+- 🌱 Learning **React Native**, **Node.js**, and **Cloud Integration**
+- 💬 Ask me about **React, Node.js, Databases, or Networking**
 
 🧩 **Core Beliefs:**  
 - Infrastructure should be *reliable, repeatable,* and *resilient*.  
@@ -88,6 +94,42 @@ I specialize in designing resilient systems using **AWS**, **Azure**, and **Pyth
 🎓 **DevOps Foundation (DevOps Institute)**  
 
 ---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EmmanuelMonojaDuku&theme=radical&no-frame=true&no-bg=false&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🥇 GitHub Achievements
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault Contributor" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO Octocat" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmmanuelMonojaDuku&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMonojaDuku&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💡 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMonojaDuku&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ### 📊 GitHub Analytics   
 
