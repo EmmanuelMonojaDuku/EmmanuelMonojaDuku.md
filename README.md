@@ -66,8 +66,14 @@ I specialize in designing resilient systems using **AWS**, **Azure**, and **Pyth
 
 ### 🧱 Featured Projects  
 
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
+### 🧱 Featured Projects  
+
+| 🚀 Project | 💡 Description | 🧰 Tech Stack |
+|-------------|----------------|---------------|
+| 📈 **Stock Price Predictor** | A machine learning model that predicts stock trends using historical data. | Python, AWS S3, Lambda, Flask, TensorFlow |
+| ✅ **Smart Task Manager** | A productivity app for managing daily tasks with reminders and cloud sync. | React, Node.js, Docker, AWS EC2 |
+| 🎓 **Digital Academy** | A full-stack e-learning platform with student progress tracking and DevOps CI/CD pipeline. | Azure, React, Django, PostgreSQL, Jenkins |
+| 🧃 **Smart Expiry Tracker** | IoT-integrated system that tracks product expiry dates and alerts users automatically. | Python, MQTT, Raspberry Pi, AWS IoT Core |
 | 🚀 **Cloud Infrastructure as Code (IaC)** | Automated deployment of multi-tier AWS infrastructure using Terraform. | AWS, Terraform, Jenkins, Ansible |
 | 🧭 **CI/CD Pipeline for Microservices** | Designed and deployed CI/CD pipelines with GitHub Actions and Docker. | Docker, GitHub Actions, Node.js |
 | ☁️ **Azure Monitoring Dashboard** | Centralized app metrics using Azure Monitor + Grafana. | Azure, Python, Grafana |
@@ -91,7 +97,7 @@ I specialize in designing resilient systems using **AWS**, **Azure**, and **Pyth
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmmanuelMonojaDukuE&theme=tokyo-night&hide_border=true" width="95%">
 </p>
 
 ---
