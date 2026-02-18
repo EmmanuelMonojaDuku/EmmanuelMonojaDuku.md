@@ -144,7 +144,7 @@ I specialize in designing resilient systems using **AWS**, **Azure**, and **Pyth
   <a href="mailto:emmanuelmonojaduku@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ EmmanuelMonojaDuku">
+  <a href="https://github.com/monojahduku@gmail.com">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
